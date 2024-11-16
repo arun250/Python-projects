@@ -17,3 +17,4 @@ These are the Python projects that I completed with Python libraries.
 15. Aim tracker.py -- aim tracking board game
 16. get_game_data.py -- Advanced python file management
 17. pdfconverter.py -- it converts the uploaded image files into pdf
+18. Flask tutorial
