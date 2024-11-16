@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+    <link
+      rel="stylesheet"
+      href="{{url_for('static', filename =
+    'css/main.css')}}"
+    />
+    {% block head %}{% endblock%}
+  </head>
+  <body>
+    {% block body %}{% endblock%}
+  </body>
+</html>
