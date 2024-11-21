@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Selection</title>
+    <link href = "{{url_for("static",filename = "styles/style.css")}}" rel =
+    "stylesheet"/>
+  </head>
+
+  <body>
+    <h1>Movie Selection</h1>
+    <div>
+      <form action="">
+        <input
+          type="text"
+          name="movie"
+          id="movie"
+          placeholder="Enter a Movie"
+        />
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+    <div>
+      <h4>{{title}}</h4>
+      <span>{{overview}}</span>
+    </div>
+  </body>
+</html>
