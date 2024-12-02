@@ -19,4 +19,6 @@ These are the Python projects that I completed with Python libraries.
 17. pdfconverter.py -- it converts the uploaded image files into pdf
 18. Flask tutorial
 19. Movie Selector -- Gives you the short description from the users input using API
+20. Luhn Algorithm
+21. Arithmetic generator
     
