@@ -21,4 +21,5 @@ These are the Python projects that I completed with Python libraries.
 19. Movie Selector -- Gives you the short description from the users input using API
 20. Luhn Algorithm
 21. Arithmetic generator
+22. Tracking expenses -- Track the user expenses based on category
     
