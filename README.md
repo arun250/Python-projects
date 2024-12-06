@@ -22,4 +22,5 @@ These are the Python projects that I completed with Python libraries.
 20. Luhn Algorithm
 21. Arithmetic generator
 22. Tracking expenses -- Track the user expenses based on category
+23. Password generator 2-- using simple regular expression library
     
